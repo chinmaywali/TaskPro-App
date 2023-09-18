@@ -1,1 +1,6 @@
-
+pip install Kivy	                    (version no : 2.2.1	)
+pip install Kivy-Garden               (version no : 0.1.5	)            
+pip install kivy-deps.angle	          (version no : 0.3.3	)
+pip install kivy-deps.glew	          (version no :0.3.1	)
+pip install kivy-deps.sdl2		        (version no : 0.6.0	)
+pip	install kivymd       	                          
