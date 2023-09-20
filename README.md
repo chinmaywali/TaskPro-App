@@ -14,7 +14,10 @@ TaskPro App 🎯
 ---
 
 
-![Screenshot](pics1.png)
+Screenshots 
+
+![123](https://github.com/chinmaywali/TaskPro-App/assets/123446377/f935965f-6a31-479d-8f52-17a2481e9dd7)
+
 
 ---
 
