@@ -14,7 +14,7 @@ TaskPro App 🎯
 ---
 
 
-![App Screenshot](screenshot1.png)
+![Screenshot](pics1.png)
 
 ---
 
