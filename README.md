@@ -14,7 +14,7 @@ TaskPro App 🎯
 
 ## Description
 
-The Task Manager App is a simple Python and Kivy-based application for managing tasks and to-do lists. It allows users to add, complete, and delete tasks with ease. The app also provides a date picker for setting due dates for tasks.
+The TaskPro App is a simple Python and Kivy-based application for managing tasks and to-do lists. It allows users to add, complete, and delete tasks with ease. The app also provides a date picker for setting due dates for tasks.
 
 ---
 ## Screenshots 
