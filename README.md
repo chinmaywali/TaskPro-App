@@ -11,10 +11,12 @@ TaskPro App 🎯
 
 </div>
 
+---
 
 ## Description
 
-The TaskPro App is a simple Python and Kivy-based application for managing tasks and to-do lists. It allows users to add, complete, and delete tasks with ease. The app also provides a date picker for setting due dates for tasks.
+The TaskPro App is a simple Python and Kivy-based application for managing tasks and to-do lists. 
+It allows users to add, complete, and delete tasks with ease. The app also provides a date picker for setting due dates for tasks.
 
 ---
 ## Screenshots 
@@ -33,6 +35,7 @@ The TaskPro App is a simple Python and Kivy-based application for managing tasks
 - Delete tasks from the list.
 - User-friendly date picker for task due dates.
 
+---
   
 ## Installation⚙️
 
@@ -40,9 +43,13 @@ The TaskPro App is a simple Python and Kivy-based application for managing tasks
 2. Install the required dependencies by running: `pip install requirements.txt`  (kivy libraries)
 3. Run the app using: `python py files and kivy kv files`
 
+---
+
 ## Contributing 🎉
 
 We welcome contributions from the community! Whether you're interested in adding new features, fixing bugs, or enhancing the UI, feel free to submit a pull request. 
+
+---
 
 ## Support 👍
 
