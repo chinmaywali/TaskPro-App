@@ -5,7 +5,7 @@
 TaskPro App 🎯 
 </h1>
 <h3>◦ Manages All your tasks!</h3>
-<h3>◦ Developed with Python , Kivy , Kivymd and Sqlite3</h3>
+<h3>◦ Developed with Python , Kivy , Kivymd and Sqlite3</h3> 
 
 
 
