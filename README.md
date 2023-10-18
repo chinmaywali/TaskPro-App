@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">
 
-<br> 
+<br>  
 TaskPro App 🎯 
 </h1>
 <h3>◦ Manages All your tasks!</h3>
