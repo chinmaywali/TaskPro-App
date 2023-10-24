@@ -3,7 +3,7 @@ import sqlite3
 class Database:
     def __init__(self):
         self.con = sqlite3.connect("abc.db")
-        self.cursor = self.con.cursor()
+        self.cursor = self.con.cursor() 
         self.create_task_table()
 
     '''CREATE the Tasks TABLE'''
