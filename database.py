@@ -8,7 +8,7 @@ class Database:
 
     '''CREATE the Tasks TABLE'''
 
-    def create_task_table(self):
+    def create_task_table(self):                                                                                               
 
         self.cursor.execute(
             "CREATE TABLE IF NOT EXISTS tasks(id integer PRIMARY KEY AUTOINCREMENT, task varcahr(50) NOT NULL, due_date varchar(50), completed BOOLEAN NOT NULL CHECK (completed IN (0, 1)))")
