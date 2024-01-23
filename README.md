@@ -36,24 +36,12 @@ It allows users to add, complete, and delete tasks with ease. The app also provi
 - User-friendly date picker for task due dates.
 
 ---
+ 
+<div align="center">
+<h1>Thank You</h1>
+</div>
+
   
-## Installation⚙️
-
-1. Clone the repository: `git clone https://github.com/chinmaywali/TaskPro-App.git`
-2. Install the required dependencies by running: `pip install requirements.txt`  (kivy libraries)
-3. Run the app using: `python py files and kivy kv files`
-
----
-
-## Contributing 🎉
-
-We welcome contributions from the community! Whether you're interested in adding new features, fixing bugs, or enhancing the UI, feel free to submit a pull request. 
-
----
-
-## Support 👍
-
-If you encounter any issues, have questions, or want to discuss ideas related to the Galaxy App, you can reach out to us by [creating an issue](https://github.com/yourusername/galaxy-app/issues) on this repository.
 
 
   
